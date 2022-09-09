@@ -1,0 +1,19 @@
+p{
+    color:green;
+    font-size: 30px;
+}
+
+body{
+    /*background-color: black*/
+    background-image: url('urso.jpeg');
+    background-position: 10px 30 px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+ul{
+    list-style-type: square;
+    list-style-position: outside;
+    list-style-image: url(urso.jpeg);
+}
