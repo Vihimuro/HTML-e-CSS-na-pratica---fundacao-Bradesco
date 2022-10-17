@@ -1,0 +1,14 @@
+*{margin: 0;padding:0;}
+
+.container-principal{
+  font-family: 'verdana'; 
+  color:#777;
+}
+
+.header{
+  width: 100%;
+  height: 100px;
+  background-color: #fff;
+  position: relative;
+  top:0;
+}
